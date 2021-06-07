@@ -1,5 +1,10 @@
 Some example text.
 
 - item 1
+  - sub item a
+  - sub item b
 - item 2
 - item 3
+- item 4
+- item 5
+- item 6
